@@ -16,5 +16,5 @@ When I'm not at work or in denial about having a social life, I'm home watching 
 Deep down, I'm just a curious, consistent, persistent person. It's an ideal quality if you plan on using Arch. (I use Arch, BTW XD)
 
 🌐 **Connect with Me:**
-[LinkedIn](www.linkedin.com/in/sanjaya-j-shetty)
+[LinkedIn](https://www.linkedin.com/in/sanjaya-j-shetty)
 
