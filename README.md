@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Hello, I'm [Your Name] 👋
+### Hello, I'm Sanjaya 👋
 
 Passionate about crafting effective solutions, I'm an R Shiny Developer experienced in creating and maintaining applications for Pharma Analytics. Skilled in managing GitHub repositories and enhancing UI with HTML, CSS, and JavaScript, I thrive on optimizing R code for efficiency.
 
