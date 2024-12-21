@@ -3,8 +3,8 @@
 
 🌟 **Highlights:**
 - Proficient in R, Rust, and Scala
-- Adept with AWS, and seamless deployment
-- Curious problem solver with a knack for optimizing code
+- Adept with AWS, Git and Docker.
+- Curious problem solver with a knack for optimizing R codes.
 
 
 🚀 **Technical Toolbox:**
