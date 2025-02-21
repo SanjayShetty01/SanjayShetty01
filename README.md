@@ -2,8 +2,8 @@
 
 
 🌟 **Highlights:**
-- Proficient in R, Rust, and Scala
-- Adept with AWS, Git and Docker.
+- Proficient in R, and Rust.
+- Adept with AWS, Postgres, Git and Docker.
 - Curious problem solver with a knack for optimizing R codes.
 
 
