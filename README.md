@@ -20,6 +20,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 
-
+🔗 **Website:** [sanjayashetty.dev](https://SanjayShetty01.github.io/)  
 🌐 **Connect with Me:**  [LinkedIn](https://www.linkedin.com/in/sanjaya-j-shetty)
 
